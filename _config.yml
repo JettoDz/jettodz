@@ -21,7 +21,7 @@
 title: pull master 
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
- Personal page. Pretty much a blog related to backend development in Java, scarce C#, some Bash here and there, springle with an obscure Ajax/Java framework and config files for some Apache products and GCP. Use at your own risk 
+ Merge at your own risk
 baseurl: "/jettodz" 
 url: "https://jettodz.github.io" 
 twitter_username: JettoAMH
