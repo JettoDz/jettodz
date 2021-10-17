@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Just recently found out about these pages. And will try to make something pretty out of them (As pretty as a Java dev can, that is).
+
+Mostly will post stuff I build at work. Kind of a history, so I don't forget my own code. Content will be released in ENglish, but will surely build, at some point, a way switch between Enslish and Spanish.
+
+Till then, this will be probably full of random, probably half hacked together code.
+
 <!--
 **JettoDz/jettodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
