@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-Just recently found out about these pages. And will try to make something pretty out of them (As pretty as a Java dev can, that is).
+Sup.
 
-Mostly will post stuff I build at work. Kind of a history, so I don't forget my own code. Content will be released in ENglish, but will surely build, at some point, a way switch between Enslish and Spanish.
+I've been a "professional" developer since October-ish 2020. Working mostly in Java (Spring) with SQL databases, splashes of JS, C#, PHP, and I've touched a bit of Ruby, Go, Kotlin and Groovy with no particular goal. Well, I'm trying Ruby to make a template for a personal blog/portfolio. 
 
-Till then, this will be probably full of random, probably half hacked together code.
+I like to think my code can be improved and that I will continue to improve the more I code. I'm also the kind of guy who doesn't go much outsite his confort zone, but is interested in a bunch of new things and will probably try them, eventually. Say, I've had this weird need to look into Rust for whatever reason, and I've almost doubled up in learning full JS stack.
+
+Currently I work in a small team building some apps. Due lack of people, I'm a Backend Java dev, Server Admin and sometimes go all out as Full stack. 
+
+Anyway, I'm learning and I hope to get involved with smarter people than me. I don't really mind changing what technology I use, it's just frustrating when stuff don't work out as "easily" as one expect amirite?
 
 <!--
 **JettoDz/jettodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
