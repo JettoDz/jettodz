@@ -2,7 +2,7 @@
 
 Sup.
 
-I've been a "professional" developer since October-ish 2020. Working mostly in Java (Spring) with SQL databases, splashes of JS, C#, PHP, and I've touched a bit of Ruby, Go, Kotlin and Groovy with no particular goal. Well, I'm trying Ruby to make a template for a personal blog/portfolio. 
+I've been a "professional" developer since October-ish 2020. Working mostly in Java (Spring) with SQL databases, splashes of Bash, JS, C#, Python(NEW🎉), PHP, and I've touched a bit of Ruby, Go, Kotlin and Groovy with no particular goal. Well, I'm trying Ruby to make a template for a personal blog/portfolio. 
 
 I like to think my code can be improved and that I will continue to improve the more I code. I'm also the kind of guy who doesn't go much outsite his confort zone, but is interested in a bunch of new things and will probably try them, eventually. Say, I've had this weird need to look into Rust for whatever reason, and I've almost doubled up in learning full JS stack.
 
